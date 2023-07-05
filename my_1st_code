@@ -10,5 +10,5 @@ def factorize(n,i):
     factorize(n,i)
     
 num=int(input('Enter a number: '))
-#print('Factors are :')
+print('Factors are :')
 factorize(num,2)
